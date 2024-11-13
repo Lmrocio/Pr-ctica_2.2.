@@ -139,7 +139,7 @@ Configuración del sistema de actualización del entorno de desarrollo
 
   Fleet: 
 
-  ![Fleet actualizacion 1](imagenes/Capturadepantalla(21).png)
+  ![Fleet actualizacion 1](imagenes/Capturadepantalla(31).png)
 
 Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
 (Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un solo IDE para generar y ejecutar este programa en dos lenguajes diferentes)
@@ -161,7 +161,7 @@ Generación de ejecutables a partir de código fuente en distintos lenguajes en 
   Visual Studio Code:
   Python:
   
-  ![VSCode Python  1](imagenes/Capturadepantalla(30).png)
+  ![VSCode Python  1](imagenes/Capturadepantalla(34).png)
 
 
 
