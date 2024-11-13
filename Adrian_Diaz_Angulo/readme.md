@@ -16,6 +16,6 @@ Instalación de entornos de desarrollo, propietarios y libres
   
     Visual Studio Code (Libre)
     
-  ![VSCode instalacion 1](Adrian Diaz Angulo/imagenes/Captura de pantalla (7).png)
+  ![VSCode instalacion 1](Adrian_Diaz_Angulo/imagenes/Capturadepantalla(7).png)
 
 
