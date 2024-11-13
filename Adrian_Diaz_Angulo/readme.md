@@ -79,6 +79,36 @@ Personalización y automatización del entorno
   
   Personalización
   
-  Antes
+  Antes:
   
+  ![VSCode Personalizacion  1](imagenes/Capturadepantalla(20).png)
 
+  ![VSCode Personalizacion  2](imagenes/Capturadepantalla(24).png)
+
+  Despues:
+
+  ![VSCode Personalizacion  3](imagenes/Capturadepantalla(21).png)
+
+  ![VSCode Personalizacion  4](imagenes/Capturadepantalla(22).png)
+
+  Automatización
+  
+  Mire cómo hacerlo pero ni idea
+
+  Fleet
+  
+  Personalización
+  
+  Antes:
+
+  ![Fleet Personalizacion  1](imagenes/Capturadepantalla(26).png)
+
+
+  Despues: 
+
+  ![Fleet Personalizacion  1](imagenes/Capturadepantalla(27).png)
+
+
+
+
+  
