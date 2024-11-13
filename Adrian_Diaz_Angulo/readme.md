@@ -25,3 +25,15 @@ Instalación de entornos de desarrollo, propietarios y libres
   ![VSCode instalacion 4](imagenes/Capturadepantalla(10).png)
 
   ![VSCode instalacion 5](imagenes/Capturadepantalla(11).png)
+
+  Fleet (Propietario)
+  
+  ![Fleet instalacion 1](imagenes/Capturadepantalla(12).png)
+
+  ![Fleet instalacion 2](imagenes/Capturadepantalla(13).png)
+  
+  ![Fleet instalacion 3](imagenes/Capturadepantalla(14).png)
+
+  ![Fleet instalacion 4](imagenes/Capturadepantalla(15).png)
+
+  ![Fleet instalacion 5](imagenes/Capturadepantalla(16).png)
