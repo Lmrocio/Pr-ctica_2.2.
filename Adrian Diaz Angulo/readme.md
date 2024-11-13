@@ -16,5 +16,6 @@ Instalación de entornos de desarrollo, propietarios y libres
   
     Visual Studio Code (Libre)
     
-      ![instalacion VSCode 1] (https://gyazo.com/74971f48612757453bb1a8abb81a0c3d)
+  ![VSCode instalacion 1](https://gyazo.com/74971f48612757453bb1a8abb81a0c3d)
+
 
