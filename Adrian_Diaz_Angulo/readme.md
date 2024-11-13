@@ -14,8 +14,14 @@ Instalación de entornos de desarrollo, propietarios y libres
     
   Evidencia: Captura de pantalla del proceso de instalación de cada IDE.
   
-    Visual Studio Code (Libre)
+  Visual Studio Code (Libre)
     
-    ![VSCode instalacion 1](imagenes/Capturadepantalla(7).png)
+  ![VSCode instalacion 1](imagenes/Capturadepantalla(7).png)
 
+  ![VSCode instalacion 2](imagenes/Capturadepantalla(8).png)
 
+  ![VSCode instalacion 3](imagenes/Capturadepantalla(9).png)
+
+  ![VSCode instalacion 4](imagenes/Capturadepantalla(10).png)
+
+  ![VSCode instalacion 5](imagenes/Capturadepantalla(11).png)
