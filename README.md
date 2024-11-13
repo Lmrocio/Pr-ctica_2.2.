@@ -25,13 +25,13 @@
 | Control de versiones |Integrado, depende del plugin|Integrado (Git, Mercurial y Subversion)| Integrado |Integrado (Git y más)| Git  |
 | Automatización de tareas |Sí, con extensiones (Task Runner, npm scripts)|Ofrece soporte para Makefile, Docker, etc.| Sí  |   Sí   |   Sí  |
 | Soporte para múltiples lenguajes | Soporte para muchos lenguajes, con extensiones |Sí, aunque está centrado en Python | Sí  | Sí, múltiples lenguajes  |  Sí   |
-|Personalización del entorno|           |           |           |                |          |
-|Integración con bases de datos |           |           |           |                |          |
-| Pruebas automatizadas |           |           |           |                |          |
-| Soporte para frameworks |           |           |           |                |          |
-| Configuración de entornos virtuales |           |           |           |                |          |
-| Herramientas de análisis de código |           |           |           |                |          |
+|Personalización del entorno| Muy alto(temas extensiones, atajos) |Sí, centrado en las configuraciones de Python| Sí | Sí | Limitada |
+|Integración con bases de datos | Limitada, depende del plugin | Buena integración | si tiene y tiene herramientas muy útiles |Soporte con varias bases de datos| Si, a través de un plugin|
+| Pruebas automatizadas | Amplio soporte | Soporte para Pytest, Unittest, etc. | pruebas automatizadas amplia | Amplio soporte | Amplio soporte |
+| Soporte para frameworks | Sí, mediante extensiones |Sí, especial para Django y Flask|Es bastante amplio| Amplio (ASP.NET, Entity Framework) |Si, limitado y a través de plugins|
+| Configuración de entornos virtuales |Sí, mediante extensiones| Sí, para Python | Poco limitado | Configuración avanzada|Si, configuración avanzada|
+| Herramientas de análisis de código |Limitado, depende de extensiones| Avanzado para Python| Varias herramientas y análisis de código  |Herramientas avanzadas|Limitado|
 |Soporte para compilación
-/maven/gradle |           |           |           |                |          |
-| Precio/licencia |           |           |           |                |          |
+/maven/gradle |Limitado, depende de extensiones|Limitado|Buen soporte|Nativo para múltiples lenguajes |  Sí  |
+| Precio/licencia | Gratuito, código abierto | Pago (versión Community Edition es gratuita) | Código abierto y gratuito |Pago (Versión Community gratuita)|En desarrollo, Pagó por definir (Gratuito para educación y hobbies)|
 
