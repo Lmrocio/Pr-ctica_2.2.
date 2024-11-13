@@ -16,9 +16,9 @@
 
 | Características |  VSCode   |  PyCharm  |  NetBeans |  Visual Studio |   Fleet  |
 | --------------- | --------- | --------- | --------- | -------------- | -------- |
-| Lenguajes soportados |           |           |           |                |          |
-| Velocidad de carga |           |           |           |                |          |
-| Soporte para extensiones |           |           |           |                |          |
+| Lenguajes soportados |Amplia variedad de lenguajes, dependiendo del plugin|Python, aunque soporta complementos para otros lenguajes|Java,php,Javascript, html, css, python,kotlin| C#, C++, Python, JavaScript, Visual Basic etc. | Python, C, C++, HTML, CSS, Java, Javascript, Kotlin, JSON, C#, Docker, Gradle|
+| Velocidad de carga | Muy Rápida| Arranque más lento | no muy rapid | Rápida|Rápida|
+| Soporte para extensiones | Muy amplio |Soporta extensiones, aunque está centrado en Python|Gran soporte de extensiones | Muy amplia |Solo tiene las extensiones para programar los diferentes lenguajes|
 | Depurador |           |           |           |                |          |
 | Refactorización |           |           |           |                |          |
 |Autocompletado de código |           |           |           |                |          |
