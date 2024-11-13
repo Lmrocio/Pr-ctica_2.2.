@@ -109,6 +109,70 @@ Personalización y automatización del entorno
   ![Fleet Personalizacion  1](imagenes/Capturadepantalla(27).png)
 
 
+  Automatización
+  
+  Busque alguna opción de automatización pero no hay nada
+
+Configuración del sistema de actualización del entorno de desarrollo
+  
+  ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
+  
+  Visual Studio Code: Lo deje con la opción predeterminada que analiza cada X tiempo si hay una nueva actualización y actualiza directamente
+  
+  Fleet: Se actualiza predeterminadamente siempre que haya una actualizacion y esta opción no se puede tocar ya que no existe este apartado en sus ajustes
+  
+  ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
+  
+  Mantener el IDE actualizado es fundamental para el desarrollo de software debido a las siguientes razones:
+  
+  Nuevas funcionalidades
+  
+  Parches de seguridad o errores 
+  
+  Mejoras de estabilidad
+  
+  Evidencia: Captura de pantalla de la configuración de actualizaciones en cada IDE.
+  
+  Visual Studio Code:
+  
+  ![VSCode Actualizaciones  1](imagenes/Capturadepantalla(30).png)
+
+  Fleet: 
+
+  ![Fleet actualizacion 1](imagenes/Capturadepantalla(21).png)
+
+Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
+(Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un solo IDE para generar y ejecutar este programa en dos lenguajes diferentes)
+  
+  ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
+  
+  Python: Le das al botón de ejecutar y directamente se interpreta y te muestra lo que pediste
+  
+  Java: Prime te pide el típico permiso para ejecutar un programa o que un programa haga cambios que supongo que sera para ejecutar la máquina virtual y ya despues de eso te ejecuta directamente el código
+  
+  ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
+  
+  Python: Directamente interpreta el código
+  
+  Java: Lo pasa a Bytecode y despues la maquina virtual lo interpreta
+  
+  Evidencia: Captura de pantalla mostrando la ejecución del programa en ambos lenguajes dentro del mismo IDE.
+  
+  Visual Studio Code:
+  Python:
+  
+  ![VSCode Python  1](imagenes/Capturadepantalla(30).png)
+
+
+
+
+
+
+
+
+
+
+  
 
 
   
