@@ -161,7 +161,7 @@ Generación de ejecutables a partir de código fuente en distintos lenguajes en 
   Visual Studio Code:
   Python:
   
-  ![VSCode Python  1](imagenes/Capturadepantalla(34).png)
+  ![VSCode Python  1](imagenes/VSCode_Python.png)
 
 
 
