@@ -163,8 +163,32 @@ Generación de ejecutables a partir de código fuente en distintos lenguajes en 
   
   ![VSCode Python  1](imagenes/VSCode_Python.png)
 
+  Java:
+
+  ![VSCode Python  1](imagenes/VSCode_Java.png)
 
 
+Generación de ejecutables con diferentes IDE´s a partir del mismo código fuente
+(Escribe un programa en Python que cuente de 10 a 0 y luego imprima "¡Despegue!". Ejecuta el programa en los IDEs seleccionados.)
+
+  ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
+  
+  Ninguna en cuanto le das a ejecutar se ejecuta solo 
+  
+  ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguajes que hayas elegido? ¿Por qué?
+  
+  Visual Studio Code. Porque es a lo que mas estoy acostumbrado pero ambos le das a un botón y se ejecuta y ambos programas te lo muestra en cuestion de milesimas de segundos
+  
+  Evidencia: Captura de pantalla mostrando la ejecución del programa en ambos IDEs.
+  
+  Visual Studio Code:
+
+  ![VSCode Python  1](imagenes/VSCode_Python.png)
+
+  Fleet:
+
+  ![VSCode Python  1](imagenes/Fleet_Python.png)
+  
 
 
 
