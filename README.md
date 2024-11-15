@@ -15,8 +15,10 @@
 2. ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
    
 3. ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
+
+   - VSCode: Ya que te instalas en plugin del lenguaje especifico que necesites, ademas de terner algunas caracteristicas mejor que los otros como por ejemplo la velocidad de carga, su amplio catalogo de extensiones, su alta personalizacion y su amplio soporte para realizar pruebas automatizadas haciendo que VSCode sea una de las mejores opciones disponibles, en caso de que el proyecto sea especificamente de Python si que en este caso seria mejor usar PyCharm debido a que se centra mas en este lenguaje
    
-4. ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
+5. ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
 
 
 ***Evidencias:*** 
