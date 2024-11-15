@@ -77,10 +77,28 @@ La aplicación de JetBrains la tenía instalada por otro módulo, por ello no he
 <summary>
 Evicendias
 </summary>
+*** PERSONALIZACIÓN Y AUTOMATIZACIÓN EN VSCODE ***
 	
-![]()
-![]()
-![]()	
+![Personalización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100339.png?raw=true)
+![Personalización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100305.png?raw=true)
+![Personalización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100422.png?raw=true)
+![Personalización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100454.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100523.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100554.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100634.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100700.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100739.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100803.png?raw=true)
+![Automatización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100828.png?raw=true)
+He tenido problemas para realizar la automatización en VSCode. Es cierto que las automatizzaciones predefinidas son muy sencillas de usar, sin embargo, en mi caso, he encontrado un poco más difícil definir una task desde cero. 
+
+*** PERSONALIZACIÓN Y AUTOMATIZACIÓN EN PYCHARM ***
+![Automatización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100900.png?raw=true)
+![Automatización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100923.png?raw=true)
+![Automatización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20100947.png?raw=true)
+![Automatización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20101017.png?raw=true)
+![Automatización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20101046.png?raw=true)
+
 </details>
 
 **2.4.** _Configuración del sistema de actualización del entorno de desarrollo._
@@ -97,10 +115,18 @@ Evicendias
 <summary>
 Evicendias
 </summary>
+*** ACTUALIZACIÓN EN VSCODE ***
 	
-![]()
-![]()
-![]()	
+![Actualización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20101113.png?raw=true)
+![Actualización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20101127.png?raw=true)
+![Actualización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102050.png?raw=true)
+![Actualización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102110.png?raw=true)
+![Actualización en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102120.png?raw=true)
+
+*** ACTUALIZACIÓN EN PYCHARM ***
+![Actualización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102138.png?raw=true)
+![Actualización en Pycharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102152.png?raw=true)
+
 </details>
 
 **2.5.** _Generación de ejecutables a partir de código fuente en distintos lenguajes en el mismo IDE._
@@ -117,10 +143,15 @@ Evicendias
 <summary>
 Evicendias
 </summary>
+*** PROGRAMA EN JAVA EN VSCODE ***	
 	
-![]()
-![]()
-![]()	
+![Java](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102238.png?raw=true)
+
+*** PROGRAMA EN PYTHON EN VSCODE ***
+![Python](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102258.png?raw=true)
+
+*** COMPARACIÓN DE AMBOS LENGUAJES ***
+![Comparación](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102313.png?raw=true)	
 </details>
 
 **2.6.** _Generación de ejecutables con diferentes IDEs a partir del mismo código fuente._
@@ -137,8 +168,10 @@ Evicendias
 <summary>
 Evicendias
 </summary>
+*** CÓDIGO PYTHON EN VSCODE ***
 	
-![]()
-![]()
-![]()	
+![Python en VSCode](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102344.png?raw=true)
+
+*** CÓDIGO PYTHON EN PYCHARM ***
+![Python en PyCharm](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102403.png?raw=true)
 </details>
