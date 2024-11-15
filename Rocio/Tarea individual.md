@@ -131,7 +131,7 @@ Evicendias
 
 2. ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguaje que hayas elegido? ¿Por qué?
    
-	Al no encontrar grandes diferencias entre los IDEs no podría dar razones sobre cuál considero que es mejor. Podría justificar mi elección por VSCode ya que es el entorno con el que más he trabajado y que parece, a priori, tener más extensiones que mejoran su rendimiento.
+	Al no encontrar grandes diferencias entre los IDEs no podría dar razones sobre cuál considero que es mejor. Podría justificar mi elección por VSCode ya que es el entorno con el que más he trabajado y que parece, a priori, tener más extensiones que mejoran su rendimiento y me permite trabajar con otros lenguajes desde el mismo IDE.En este sentido, VSCode parece ser más versátil que Pycharm.
 
 <details>
 <summary>
