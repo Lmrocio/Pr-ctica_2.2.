@@ -19,6 +19,7 @@
    - VSCode: Ya que te instalas en plugin del lenguaje especifico que necesites, ademas de terner algunas caracteristicas mejor que los otros como por ejemplo la velocidad de carga, su amplio catalogo de extensiones, su alta personalizacion y su amplio soporte para realizar pruebas automatizadas haciendo que VSCode sea una de las mejores opciones disponibles, en caso de que el proyecto sea especificamente de Python si que en este caso seria mejor usar PyCharm debido a que se centra mas en este lenguaje
    
 5. ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
+- Recomendaría IntelliJ IDEA, es el IDE más completo para un equipo que trabaja con Python, Java y Kotlin, ya que ofrece soporte nativo para Java y Kotlin y es muy potente en cuanto a refactorización, depuración, y autocompletado
 
 
 ***Evidencias:*** 
