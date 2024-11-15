@@ -13,13 +13,30 @@
    - Control de versiones. En todos los IDEs comparados podemos encontrar un sistema de control de versiones integrado, especialmente destaca la compatibilidad con Git.
      
 2. ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
-   
+
+   **Manejo de módulos/extensiones:**
+   - VSCode tiene una gran cantidad de extensiones que permiten a los desarrolladores personalizarlo para casi cualquier lenguaje.
+   - Visual Studio también ofrece un amplio soporte para módulos, especialmente para entornos de .NET y aplicaciones de Windows.
+   - Fleet es adaptable y permite habilitar o deshabilitar funcionalidades específicas, siendo útil para varios lenguajes, aunque es más limitado comparado con VSCode.
+   - NetBeans y PyCharm tienen menos extensiones en comparación y su soporte para módulos está enfocado en lenguajes específicos (Java en NetBeans y Python en PyCharm).
+
+   **Personalización el entorno:**
+   - VSCode es muy personalizable, desde temas hasta atajos y extensiones específicas.
+   - Fleet permite personalización en temas y configuración básica, pero tiene menos opciones en comparación con VSCode.
+   - PyCharm y NetBeans ofrecen menos opciones de personalización, ya que su entorno está más especializado y enfocado en sus lenguajes principales.
+   - Visual Studio permite una personalización importante, especialmente para proyectos de .NET.
+
+   **Generación de ejecutables:**
+   - Visual Studio ofrece soporte nativo para compilar y generar ejecutables (.NET y C++).
+   - NetBeans permite generar ejecutables para Java, mientras que PyCharm y VSCode requieren configuraciones adicionales para crear ejecutables en Python u otros lenguajes.
+   - Fleet ofrece generación de ejecutables de forma limitada y necesita de herramientas externas o configuraciones adicionales para crear ejecutables en distintos lenguajes.
+
 3. ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
 
-   - VSCode: Ya que te instalas en plugin del lenguaje especifico que necesites, ademas de terner algunas caracteristicas mejor que los otros como por ejemplo la velocidad de carga, su amplio catalogo de extensiones, su alta personalizacion y su amplio soporte para realizar pruebas automatizadas haciendo que VSCode sea una de las mejores opciones disponibles, en caso de que el proyecto sea especificamente de Python si que en este caso seria mejor usar PyCharm debido a que se centra mas en este lenguaje
+   - VSCode: Ya que te instalas en plugin del lenguaje especifico que necesites, ademas de terner algunas caracteristicas mejor que los otros como por ejemplo la velocidad de carga, su amplio catalogo de extensiones, su alta personalizacion y su amplio soporte para realizar pruebas automatizadas haciendo que VSCode sea una de las mejores opciones disponibles, en caso de que el proyecto sea especificamente de Python si que en este caso seria mejor usar PyCharm debido a que se centra mas en este lenguaje.
    
-5. ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
-   - Recomendaría IntelliJ IDEA, es el IDE más completo para un equipo que trabaja con Python, Java y Kotlin, ya que ofrece soporte nativo para Java y Kotlin y es muy potente en cuanto a refactorización, depuración, y autocompletado
+4. ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
+   - Recomendaría IntelliJ IDEA, es el IDE más completo para un equipo que trabaja con Python, Java y Kotlin, ya que ofrece soporte nativo para Java y Kotlin y es muy potente en cuanto a refactorización, depuración, y autocompletado.
 
 
 ***Evidencias:*** 
