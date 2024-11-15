@@ -3,8 +3,15 @@
 > Integrantes del grupo: Rocío Luque, Antonio Caro, Adrián Diaz y Juan Herrador.
 
 ***Preguntas evaluativas:***
+
 1. ¿Qué características comunes comparten los IDEs en términos de edición de código, depuración y control de versiones?
-   
+
+   - Edición de código. Entre las características cómunes concernientes con la edición y creación de código encontramos: soporte para varios lenguajes de programación (aunque sea limitado como en el caso de PyCharm), soporte para extensiones que nos pueden aportar herramientas para la edición, limitada refactorización del código (siendo el único punto negativo encontrado), autocompletado de código, pruebas automáticas realizadas al código (en su mayoría, con amplias prestaciones) y herramientas de análisis de código, mínimo, en un estado limitado.
+     
+   - Depuración. Encontramos, mínimo, un depurador básico que cumple su funcionalidad en todos los entornos observados. No obstante, en la mayoría de los casos tenemos un depurador complejo, con funciones más avanzadas que nos permiten realizar una depuración más sofisticada y precisa.
+     
+   - Control de versiones. En todos los IDEs comparados podemos encontrar un sistema de control de versiones integrado, especialmente destaca la compatibilidad con Git.
+     
 2. ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
    
 3. ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
