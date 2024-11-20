@@ -3,7 +3,7 @@
 > Para realizar esta práctica he elegido los IDEs 'Visual Studio Code' y 'PyCharm', los cuales
 > he usado en otros módulos para trabajar con el mismo lenguaje de programación: Python.
 
-**2.1.** _Instalación de entornos de desarrollo, propietarios y libres._
+### **2.1.** _Instalación de entornos de desarrollo, propietarios y libres._
 	
 1. ¿Qué diferencias encontrarse en el proceso de instalación entre el IDE propietario y el libre?
 
@@ -33,7 +33,9 @@
 La aplicación de JetBrains la tenía instalada por otro módulo, por ello no he podido capturar todos los pasos necesarios para la instalación (como el paso de introducir la licencia de uso).
 </details>
 
-**2.2.**  _Gestión de módulos y extensiones en el entorno de desarrollo._
+---
+
+### **2.2.**  _Gestión de módulos y extensiones en el entorno de desarrollo._
 
 1. ¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?
    
@@ -63,7 +65,9 @@ La aplicación de JetBrains la tenía instalada por otro módulo, por ello no he
 
 </details>
 
-**2.3.** _Personalización y automatización del entorno._
+---
+
+### **2.3.** _Personalización y automatización del entorno._
 
 1. ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
    
@@ -75,7 +79,7 @@ La aplicación de JetBrains la tenía instalada por otro módulo, por ello no he
 
 <details>
 <summary>
-Evicendias
+Evidencias
 </summary>
 *** PERSONALIZACIÓN Y AUTOMATIZACIÓN EN VSCODE ***
 	
@@ -101,7 +105,9 @@ He tenido problemas para realizar la automatización en VSCode. Es cierto que la
 
 </details>
 
-**2.4.** _Configuración del sistema de actualización del entorno de desarrollo._
+---
+
+### **2.4.** _Configuración del sistema de actualización del entorno de desarrollo._
 
 1. ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
    
@@ -113,7 +119,7 @@ He tenido problemas para realizar la automatización en VSCode. Es cierto que la
 
 <details>
 <summary>
-Evicendias
+Evidencias
 </summary>
 *** ACTUALIZACIÓN EN VSCODE ***
 	
@@ -129,7 +135,9 @@ Evicendias
 
 </details>
 
-**2.5.** _Generación de ejecutables a partir de código fuente en distintos lenguajes en el mismo IDE._
+---
+
+### **2.5.** _Generación de ejecutables a partir de código fuente en distintos lenguajes en el mismo IDE._
 
 1. ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
 
@@ -141,7 +149,7 @@ Evicendias
 
 <details>
 <summary>
-Evicendias
+Evidencias
 </summary>
 *** PROGRAMA EN JAVA EN VSCODE ***	
 	
@@ -154,7 +162,9 @@ Evicendias
 ![Comparación](https://github.com/Lmrocio/Practica_2.2./blob/main/Rocio/Capturas/Captura%20de%20pantalla%202024-11-15%20102313.png?raw=true)	
 </details>
 
-**2.6.** _Generación de ejecutables con diferentes IDEs a partir del mismo código fuente._
+---
+
+### **2.6.** _Generación de ejecutables con diferentes IDEs a partir del mismo código fuente._
 
 1. ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
 	
@@ -166,7 +176,7 @@ Evicendias
 
 <details>
 <summary>
-Evicendias
+Evidencias
 </summary>
 *** CÓDIGO PYTHON EN VSCODE ***
 	
