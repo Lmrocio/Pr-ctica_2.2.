@@ -16,7 +16,7 @@
 
 <details>
 <summary> 
- Evidencias (capturas)
+ Evidencias (pulsa aquí)
 </summary>
 *** INSTALACIÓN VSCODE ***
 	
